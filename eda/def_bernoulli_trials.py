@@ -27,3 +27,5 @@ def perform_bernoulli_trials(n, p):
 
     return n_success
 # == [ BERNOULLI FUNCTION  END  ] =============================================
+
+# SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE

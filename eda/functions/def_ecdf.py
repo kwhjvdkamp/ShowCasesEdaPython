@@ -1,8 +1,14 @@
+# # SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO
+
+# # == [ (Empirical) CUMULATION DISTRIBUTION FUNCTION START ] ===================
+
+
+
 # import numpy as np
 
 # def ecdf(data):
 #     """
-#     Compute ECDF for a one-dimensional array of measurements
+#     Compute ECDF for a TWO-dimensional array of measurements
 #     """
 #     # (E)CDF = (Empirical) Cumulative Distribution Function
 #     # Number of data points: n
@@ -12,4 +18,10 @@
 #     # y-data for the ECDF: y
 #     y = np.arange(1, n + 1) / n
 
-#     return x, y
+#     return x,
+
+
+
+# # == [ (Empirical) CUMULATION DISTRIBUTION FUNCTION  END  ] ===================
+
+# # SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO
