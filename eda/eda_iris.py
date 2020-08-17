@@ -1,4 +1,6 @@
-# Import plotting modules
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Graphical Exploratory Data Analysis on Iris
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.cm
@@ -8,15 +10,23 @@ import seaborn as sns
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.decomposition import PCA
 
-# Import learning dataset from scikit-learn.org
+
+
+# =======================================================================================
+# Import Iris dataset from scikit-learn.org
+# =======================================================================================
 from def_iris import iris
+# =======================================================================================
 
-# Import (E)CDF [(Empirical) Cumulative Distribution Function]
+
+
+# =======================================================================================
+# Import (Empirical) Cumulation Distribution Function [(E)CDF]
+# =======================================================================================
 from def_ecdf import ecdf
+# =======================================================================================
 
-# ++++++++++++++++++++++++++++++++++++++++++++++++++
-# Graphical Exploratory Data Analysis on Iris
-# ++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 # Set default Seaborn style
 sns.set()
