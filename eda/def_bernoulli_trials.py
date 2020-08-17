@@ -1,9 +1,14 @@
 # SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE
 
 # == [ BERNOULLI FUNCTION START ] =============================================
+
+
+
 import array
 import numpy as np
 import matplotlib.pyplot as plt
+
+
 
 def perform_bernoulli_trials(n, p):
     """
@@ -26,6 +31,9 @@ def perform_bernoulli_trials(n, p):
     print('Probability (p) of \'defaults\':', n_success)
 
     return n_success
+
+
+
 # == [ BERNOULLI FUNCTION  END  ] =============================================
 
 # SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE-SHOWCASE-ONE

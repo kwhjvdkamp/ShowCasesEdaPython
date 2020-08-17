@@ -1,4 +1,16 @@
+# SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO
+
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Graphical Exploratory Data Analysis on Iris
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# # == [ (Empirical) CUMULATION DISTRIBUTION FUNCTION START ] =================
+
+
+
 import numpy as np
+
+
 
 def ecdf(data):
     """
@@ -13,3 +25,9 @@ def ecdf(data):
     y = np.arange(1, n + 1) / n
 
     return x, y
+
+
+
+# == [ (Empirical) CUMULATION DISTRIBUTION FUNCTION  END  ] ===================
+
+# SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO

@@ -1,6 +1,13 @@
+# SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO-SHOWCASE-TWO
+
+
+
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Graphical Exploratory Data Analysis on Iris
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.cm
@@ -15,7 +22,7 @@ from sklearn.decomposition import PCA
 # =======================================================================================
 # Import Iris dataset from scikit-learn.org
 # =======================================================================================
-from def_iris import iris
+# from def_iris import iris
 # =======================================================================================
 
 
